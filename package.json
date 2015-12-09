@@ -10,10 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/jaynosius/advent-calendar.git"
   },
-  "author": "",
+  "author": "jan@vigour.io",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jaynosius/advent-calendar/issues"
   },
-  "homepage": "https://github.com/jaynosius/advent-calendar#readme"
+  "homepage": "https://github.com/jaynosius/advent-calendar#readme",
+  "gaston": {
+  }
 }
