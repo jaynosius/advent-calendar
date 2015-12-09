@@ -1,0 +1,19 @@
+{
+  "name": "advent-calendar",
+  "version": "0.0.1",
+  "description": "this for advent of code submissions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaynosius/advent-calendar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaynosius/advent-calendar/issues"
+  },
+  "homepage": "https://github.com/jaynosius/advent-calendar#readme"
+}
